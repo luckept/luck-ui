@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>Hello</div>
+  <div class="text-3xl font-bold underline">Hello</div>
 </template>
 
 <style scoped></style>
