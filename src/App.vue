@@ -1,9 +1,7 @@
-<script setup lang="ts">
-import Test from './components/Test'
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <Test />
+  <div>Hello</div>
 </template>
 
 <style scoped></style>
